@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @zjezierska!
-- 👀 I’m interested in programming in Python / C++ / using SQL, data science, always broadening my knowledge.
+- 👀 I’m interested in programming in Python (AI, ML, NLP) / C++ / SQL mostly although I do love quirky projects.
 - 🌱 I’m currently learning quantum physics and using neural networks to solve difficult problems.
-- 📫 How to reach me: email or Discord: zuzeł#6110.
+- 📫 How to reach me: email (zjezierska35@gmail.com) or Discord: redhoodies.
 
 <!---
 zjezierska/zjezierska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
